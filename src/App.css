@@ -1,0 +1,23 @@
+
+.FACEBOOK{
+    text-align: center;
+}
+.contenedor{
+  background-color: #087DFF;
+}
+
+.listadolocalidad{
+  background-color:aqua;
+}
+
+
+.climadetalle{
+  background-color: rgb(85, 85, 216);
+}
+
+.climaLocalidad{
+  background-color: aquamarine;
+  font-size:30px;
+	color:black;
+	font-family: 'Times New Roman', Times, serif
+}
